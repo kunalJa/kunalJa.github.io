@@ -1,7 +1,7 @@
 # Site
 title: Halve
 description: Stylish, Two-Column Jekyll Theme
-url: https://kunalja.github.io/
+url: https://kunalja.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -12,7 +12,7 @@ background:
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
-permalink:          /:title/
+permalink:          /
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
