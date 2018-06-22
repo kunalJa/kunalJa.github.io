@@ -3,8 +3,9 @@ layout: home
 ---
 # About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am a student at the [University of Texas at Austin](http://utexas.edu) studying Electrical and Computer Engineering and Math.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+In the _Posts_ section, you will find posts that can be organized by tags, clicking on one of the tags will allow you to see many other posts of the same tag.
+The posts range in topic from my thoughts on books and papers to descriptions of projects and other things I am learning.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+In the _Projects_ section, you will find links to projects- most of which will be on [github](http://github.com/kunalJa).
