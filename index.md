@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About Theme
+# A Portfolio/Blog
 
 I am a student at the [University of Texas at Austin](http://utexas.edu) studying Electrical and Computer Engineering and Math.
 
