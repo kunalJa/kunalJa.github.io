@@ -6,6 +6,7 @@ categories:
 tags:
   - security
   - C
+  - Summer 2018
 ---
 
 address space randomization
