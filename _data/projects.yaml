@@ -1,10 +1,9 @@
-- title: Circuit Theory Labs
-  url: http://github.com/kunalJa
-  image: https://2.bp.blogspot.com/-9SXxmY1ulr4/WnnIhJx_v9I/AAAAAAAACtI/tIn824fft1cPs2wLEm1ipX8Rr-Kq1YahACLcBGAs/s1600/1.jpg
-  completed: false
-
-- title: Pip Pull - Fail
-  url: http://github.com/kunalJa
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Resume
+  url: https://drive.google.com/file/d/1Oe3wtqmbydpSF4oNDYhDEYqQzpEVcdBL/view?usp=sharing
+  image: https://images.unsplash.com/photo-1504884060002-619141ede057?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e06d1b413fc1c192373b453883acfb1e&auto=format&fit=crop&w=1050&q=80
   completed: true
 
+- title: HTML5 2048 Game
+  url: https://balakumaran-bala.github.io/HTML5-2048/
+  image: https://balakumaran-bala.github.io/HTML5-2048/img/background.png
+  completed: true
