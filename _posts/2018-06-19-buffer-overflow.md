@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Buffer Overflow Attack"
+share: false
 categories:
   - Seed Labs
 tags:
-  - security
+  - Security
   - C
   - Summer 2018
 ---
