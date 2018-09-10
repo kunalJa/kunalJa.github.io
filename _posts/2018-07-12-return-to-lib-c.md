@@ -10,5 +10,6 @@ tags:
   - Summer 2018
 ---
 
-A follow up to the Buffer Overflow attack in which the stack is no
-longer executable
+A follow up to the Buffer Overflow attack in which the stack is no longer executable.
+
+[Write up will arrive shortly!]
